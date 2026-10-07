@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.alovemind_sudo.twa",
+        "sha256_cert_fingerprints": ["86:AE:E6:1B:72:96:B9:B2:03:11:7B:44:08:92:11:9C:4B:6F:A9:6A:D4:32:A5:66:9E:FA:25:D7:63:40:11:1A"]
+      }
+    }]
